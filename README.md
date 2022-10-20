@@ -1,7 +1,12 @@
 # NI_portfolio
 
-docker-compose build
+## Project setup
+```
+cd /vueApp/vue-sample
+npm install
+```
 
-docker-compose run --rm vue-app sh -c  "npm install -g @vue/cli @vue/cli-init"
-
-docker-compose up -d
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
