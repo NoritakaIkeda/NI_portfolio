@@ -1,5 +1,5 @@
 # NI_portfolio
-
+ポートフォリオサイトを作成してみました。
 ## Project setup
 ```
 cd /vueApp/vue-sample
