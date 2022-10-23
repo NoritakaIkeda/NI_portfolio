@@ -3,6 +3,7 @@
 ## Project setup
 ```
 cd /vueApp/vue-sample
+
 npm install
 ```
 
